@@ -24,8 +24,13 @@
     color: white;
     padding: 10px 42px;
     font-size: 16px;
+    border-radius: 10px;
   }
 
+  #clear_btn
+  {
+    background-color: orange;
+  }
   input
   {
     margin-right: 20px;
